@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TrixDah
+- 👀 I’m interested in AI and machine learning and things like that.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on any AI projects that are in Python.
+- 📫 How to reach me. I am @TrixDah on Twitter, Discord, YouTube and Twitch, 
